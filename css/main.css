@@ -1,0 +1,26 @@
+1
+/***** BASE STYLES
+color=#669966, font-family: 'Montserrat', sans-serif;
+*****/
+
+.full-width {
+    width: 1240px;
+    margin: 0, auto;
+}
+
+.third-width {
+    width: 400px;
+    margin: 20, auto;
+}
+
+#header h1 {
+    font-size: 18pt;
+    font-family: Montserrat Bold, sans-serif;
+    font-style:
+    text-transform: uppercase;
+}
+
+#footer {
+    height: 80px;
+    Padding: 30,0;
+}
